@@ -1,0 +1,11 @@
+module.exports = {
+  jenkins: {
+    userId: '',
+    userApiToken: '',
+    projectToken: ''
+  },
+  environment: 'development',
+  slack: {
+    token: ''
+  }
+};

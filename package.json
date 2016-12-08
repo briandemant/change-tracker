@@ -1,0 +1,12 @@
+{
+  "name": "change-tracker",
+  "version": "0.0.1",
+  "description": "Tracks all changes to coursera product",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts": {},
+  "author": "Priyank Chodisetti <priyank@coursera.org>",
+  "license": "Apache 2.0"
+}

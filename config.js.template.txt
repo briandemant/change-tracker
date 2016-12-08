@@ -1,11 +1,10 @@
 module.exports = {
   jenkins: {
-    userId: '',
-    userApiToken: '',
-    projectToken: ''
+    userId: '', //Check with jenkins credentials
+    userApiToken: '', //You can get one from jenkins user page
+    projectToken: '', //You can set one while configuring remote build trigger
   },
-  environment: 'development',
   slack: {
-    token: ''
+    token: '', //Generated on slack
   }
 };

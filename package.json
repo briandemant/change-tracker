@@ -4,7 +4,8 @@
   "description": "Tracks all changes to coursera product",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "request": "2.79.0"
   },
   "scripts": {},
   "author": "Priyank Chodisetti <priyank@coursera.org>",

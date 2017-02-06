@@ -1,7 +1,7 @@
 #change-tracker
 change-tracker receives outgoing webhooks from slack and triggers jenkins build
 
-#current configuration
+### current configuration
 it receives messages from slack on all epic experiment changes and triggers web-courselenium build on jenkins
 
 # install
